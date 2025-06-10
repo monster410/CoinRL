@@ -1,0 +1,13 @@
+# Python version requirement
+# This project requires Python 3.10.12 (or Python 3.10.x)
+# Please ensure all team members use the same Python version
+
+# Core packages
+pip>=23.0
+setuptools>=65.0
+
+# Add your project dependencies here
+# Example:
+# numpy>=1.21.0
+# pandas>=1.5.0
+# matplotlib>=3.5.0 
